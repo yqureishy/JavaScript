@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(126, 126, 139) ;
+}
+.area {
+    margin:20px;
+    text-align: center;
+
+}
+
+#task {
+    background:black;
+    color: white
+}
+
+#tasksUl {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(8, 9, 85);
+    font-size: 30px;
+}
+
+#lines {
+    color: white;
+    list-style-type: none;
+
+}
+#cbox{
+    float:left;
+    width: 20px;
+    height: 30px
+
+}
+
+#rBut {
+    float:right;
+    height: 30px;
+    margin-top: 3px;
+    margin-right: 4px
+
+}
+
+#completedUl {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(8, 9, 85);
+    font-size: 30px;
+
+}
