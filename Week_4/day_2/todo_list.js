@@ -34,12 +34,6 @@ submitButton.addEventListener("click", function() {
         }
     })
 
-    
-
-
-
-    
-
     liItem.appendChild(removeButton)
     liItem.appendChild(checkBox)
 })
